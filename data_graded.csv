@@ -1,0 +1,511 @@
+﻿id,difficulty,text,label
+1,easy,"Đáng tiền, pin trâu, màn hình đẹp. Mình sẽ cân nhắc mua lại.",positive
+2,easy,"Giao hàng nhanh, đóng gói cẩn thận. Nếu cải thiện thêm thì tốt hơn.",positive
+3,easy,"Sản phẩm rất tốt, dùng ổn định.",positive
+4,easy,"Âm thanh hay, thiết kế đẹp.",positive
+5,easy,"Đáng tiền, pin trâu, màn hình đẹp. Không biết do máy mình hay sản phẩm.",positive
+6,easy,"Sản phẩm rất tốt, dùng ổn định. Không biết do máy mình hay sản phẩm.",positive
+7,easy,"Chất lượng tuyệt vời, mình rất hài lòng.",positive
+8,easy,"Sản phẩm rất tốt, dùng ổn định. Trải nghiệm khá ổn.",positive
+9,easy,"Giao hàng nhanh, đóng gói cẩn thận.",positive
+10,easy,"Chất lượng tuyệt vời, mình rất hài lòng.",positive
+11,easy,"Âm thanh hay, thiết kế đẹp. Trải nghiệm khá ổn.",positive
+12,easy,"Sản phẩm rất tốt, dùng ổn định. Không biết do máy mình hay sản phẩm.",positive
+13,easy,"Sản phẩm rất tốt, dùng ổn định. Mình sẽ cân nhắc mua lại.",positive
+14,easy,"Hàng đúng mô tả, hoạt động tốt. Nếu cải thiện thêm thì tốt hơn.",positive
+15,easy,"Âm thanh hay, thiết kế đẹp.",positive
+16,easy,"Âm thanh hay, thiết kế đẹp. Không biết do máy mình hay sản phẩm.",positive
+17,easy,"Giao hàng nhanh, đóng gói cẩn thận.",positive
+18,easy,"Chất lượng tuyệt vời, mình rất hài lòng.",positive
+19,easy,"Âm thanh hay, thiết kế đẹp. Mình sẽ cân nhắc mua lại.",positive
+20,easy,"Đáng tiền, pin trâu, màn hình đẹp. Trải nghiệm khá ổn.",positive
+21,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Không biết do máy mình hay sản phẩm.",positive
+22,easy,"Sản phẩm rất tốt, dùng ổn định. Không biết do máy mình hay sản phẩm.",positive
+23,easy,"Đáng tiền, pin trâu, màn hình đẹp. Không biết do máy mình hay sản phẩm.",positive
+24,easy,"Hàng đúng mô tả, hoạt động tốt. Mình sẽ cân nhắc mua lại.",positive
+25,easy,"Sản phẩm rất tốt, dùng ổn định. Không biết do máy mình hay sản phẩm.",positive
+26,easy,"Âm thanh hay, thiết kế đẹp. Nếu cải thiện thêm thì tốt hơn.",positive
+27,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Nói chung ổn.",positive
+28,easy,"Sản phẩm rất tốt, dùng ổn định. Không biết do máy mình hay sản phẩm.",positive
+29,easy,"Hàng đúng mô tả, hoạt động tốt.",positive
+30,easy,"Âm thanh hay, thiết kế đẹp.",positive
+31,easy,"Âm thanh hay, thiết kế đẹp. Mình sẽ cân nhắc mua lại.",positive
+32,easy,"Giao hàng nhanh, đóng gói cẩn thận. Nếu cải thiện thêm thì tốt hơn.",positive
+33,easy,"Âm thanh hay, thiết kế đẹp. Trải nghiệm khá ổn.",positive
+34,easy,"Đáng tiền, pin trâu, màn hình đẹp. Trải nghiệm khá ổn.",positive
+35,easy,"Âm thanh hay, thiết kế đẹp. Trải nghiệm khá ổn.",positive
+36,easy,"Đáng tiền, pin trâu, màn hình đẹp. Nói chung ổn.",positive
+37,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Mình sẽ cân nhắc mua lại.",positive
+38,easy,"Hàng đúng mô tả, hoạt động tốt. Mình sẽ cân nhắc mua lại.",positive
+39,easy,"Sản phẩm rất tốt, dùng ổn định. Không biết do máy mình hay sản phẩm.",positive
+40,easy,"Đáng tiền, pin trâu, màn hình đẹp. Không biết do máy mình hay sản phẩm.",positive
+41,easy,"Giao hàng nhanh, đóng gói cẩn thận. Nói chung ổn.",positive
+42,easy,"Hàng đúng mô tả, hoạt động tốt. Trải nghiệm khá ổn.",positive
+43,easy,"Đáng tiền, pin trâu, màn hình đẹp. Không biết do máy mình hay sản phẩm.",positive
+44,easy,"Sản phẩm rất tốt, dùng ổn định.",positive
+45,easy,"Âm thanh hay, thiết kế đẹp. Trải nghiệm khá ổn.",positive
+46,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Nói chung ổn.",positive
+47,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Trải nghiệm khá ổn.",positive
+48,easy,"Giao hàng nhanh, đóng gói cẩn thận.",positive
+49,easy,"Hàng đúng mô tả, hoạt động tốt.",positive
+50,easy,"Âm thanh hay, thiết kế đẹp. Không biết do máy mình hay sản phẩm.",positive
+51,easy,"Đáng tiền, pin trâu, màn hình đẹp. Nói chung ổn.",positive
+52,easy,"Hàng đúng mô tả, hoạt động tốt. Nói chung ổn.",positive
+53,easy,"Âm thanh hay, thiết kế đẹp. Trải nghiệm khá ổn.",positive
+54,easy,"Âm thanh hay, thiết kế đẹp. Trải nghiệm khá ổn.",positive
+55,easy,"Sản phẩm rất tốt, dùng ổn định.",positive
+56,easy,"Đáng tiền, pin trâu, màn hình đẹp. Trải nghiệm khá ổn.",positive
+57,easy,"Hàng đúng mô tả, hoạt động tốt. Nếu cải thiện thêm thì tốt hơn.",positive
+58,easy,"Sản phẩm rất tốt, dùng ổn định.",positive
+59,easy,"Hàng đúng mô tả, hoạt động tốt. Nếu cải thiện thêm thì tốt hơn.",positive
+60,easy,"Đáng tiền, pin trâu, màn hình đẹp. Nếu cải thiện thêm thì tốt hơn.",positive
+61,easy,"Âm thanh hay, thiết kế đẹp. Nếu cải thiện thêm thì tốt hơn.",positive
+62,easy,"Giao hàng nhanh, đóng gói cẩn thận. Nói chung ổn.",positive
+63,easy,"Hàng đúng mô tả, hoạt động tốt. Trải nghiệm khá ổn.",positive
+64,easy,"Hàng đúng mô tả, hoạt động tốt. Nói chung ổn.",positive
+65,easy,"Sản phẩm rất tốt, dùng ổn định. Trải nghiệm khá ổn.",positive
+66,easy,"Đáng tiền, pin trâu, màn hình đẹp. Mình sẽ cân nhắc mua lại.",positive
+67,easy,"Âm thanh hay, thiết kế đẹp.",positive
+68,easy,"Giao hàng nhanh, đóng gói cẩn thận.",positive
+69,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Nói chung ổn.",positive
+70,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Nếu cải thiện thêm thì tốt hơn.",positive
+71,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Trải nghiệm khá ổn.",positive
+72,easy,"Giao hàng nhanh, đóng gói cẩn thận. Trải nghiệm khá ổn.",positive
+73,easy,"Sản phẩm rất tốt, dùng ổn định. Mình sẽ cân nhắc mua lại.",positive
+74,easy,"Giao hàng nhanh, đóng gói cẩn thận. Trải nghiệm khá ổn.",positive
+75,easy,"Âm thanh hay, thiết kế đẹp. Nói chung ổn.",positive
+76,easy,"Chất lượng tuyệt vời, mình rất hài lòng. Trải nghiệm khá ổn.",positive
+77,easy,"Âm thanh hay, thiết kế đẹp. Nói chung ổn.",positive
+78,easy,"Hàng đúng mô tả, hoạt động tốt. Trải nghiệm khá ổn.",positive
+79,easy,"Đáng tiền, pin trâu, màn hình đẹp. Nếu cải thiện thêm thì tốt hơn.",positive
+80,easy,"Giao hàng nhanh, đóng gói cẩn thận. Mình sẽ cân nhắc mua lại.",positive
+81,easy,"Chất lượng kém, không đáng tiền.",negative
+82,easy,"Chất lượng kém, không đáng tiền. Mình sẽ cân nhắc mua lại.",negative
+83,easy,"Chất lượng kém, không đáng tiền. Nếu cải thiện thêm thì tốt hơn.",negative
+84,easy,"Chất lượng kém, không đáng tiền.",negative
+85,easy,"Giao hàng trễ, đóng gói sơ sài. Không biết do máy mình hay sản phẩm.",negative
+86,easy,"Chất lượng kém, không đáng tiền. Nói chung ổn.",negative
+87,easy,"Máy chạy chậm, hay bị treo.",negative
+88,easy,"Chất lượng kém, không đáng tiền. Trải nghiệm khá ổn.",negative
+89,easy,"Âm thanh nhỏ, rè và khó nghe. Nói chung ổn.",negative
+90,easy,"Âm thanh nhỏ, rè và khó nghe. Không biết do máy mình hay sản phẩm.",negative
+91,easy,"Máy chạy chậm, hay bị treo. Mình sẽ cân nhắc mua lại.",negative
+92,easy,"Hàng lỗi, dùng vài hôm là hỏng. Không biết do máy mình hay sản phẩm.",negative
+93,easy,"Âm thanh nhỏ, rè và khó nghe. Nếu cải thiện thêm thì tốt hơn.",negative
+94,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nếu cải thiện thêm thì tốt hơn.",negative
+95,easy,"Sản phẩm rất tệ, nhanh hỏng. Trải nghiệm khá ổn.",negative
+96,easy,"Hàng lỗi, dùng vài hôm là hỏng. Không biết do máy mình hay sản phẩm.",negative
+97,easy,"Giao hàng trễ, đóng gói sơ sài. Trải nghiệm khá ổn.",negative
+98,easy,"Giao hàng trễ, đóng gói sơ sài. Trải nghiệm khá ổn.",negative
+99,easy,"Sản phẩm rất tệ, nhanh hỏng. Trải nghiệm khá ổn.",negative
+100,easy,"Hàng lỗi, dùng vài hôm là hỏng. Trải nghiệm khá ổn.",negative
+101,easy,"Sản phẩm rất tệ, nhanh hỏng. Mình sẽ cân nhắc mua lại.",negative
+102,easy,"Sản phẩm rất tệ, nhanh hỏng. Mình sẽ cân nhắc mua lại.",negative
+103,easy,"Giao hàng trễ, đóng gói sơ sài. Mình sẽ cân nhắc mua lại.",negative
+104,easy,"Sản phẩm rất tệ, nhanh hỏng. Nói chung ổn.",negative
+105,easy,"Âm thanh nhỏ, rè và khó nghe.",negative
+106,easy,"Sản phẩm rất tệ, nhanh hỏng.",negative
+107,easy,"Âm thanh nhỏ, rè và khó nghe. Mình sẽ cân nhắc mua lại.",negative
+108,easy,"Âm thanh nhỏ, rè và khó nghe.",negative
+109,easy,"Máy chạy chậm, hay bị treo. Không biết do máy mình hay sản phẩm.",negative
+110,easy,"Sản phẩm rất tệ, nhanh hỏng.",negative
+111,easy,"Chất lượng kém, không đáng tiền. Không biết do máy mình hay sản phẩm.",negative
+112,easy,"Giao hàng trễ, đóng gói sơ sài. Mình sẽ cân nhắc mua lại.",negative
+113,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nói chung ổn.",negative
+114,easy,"Máy chạy chậm, hay bị treo. Không biết do máy mình hay sản phẩm.",negative
+115,easy,"Máy chạy chậm, hay bị treo. Trải nghiệm khá ổn.",negative
+116,easy,"Sản phẩm rất tệ, nhanh hỏng.",negative
+117,easy,"Giao hàng trễ, đóng gói sơ sài. Trải nghiệm khá ổn.",negative
+118,easy,"Giao hàng trễ, đóng gói sơ sài. Trải nghiệm khá ổn.",negative
+119,easy,"Máy chạy chậm, hay bị treo.",negative
+120,easy,"Chất lượng kém, không đáng tiền.",negative
+121,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nói chung ổn.",negative
+122,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nói chung ổn.",negative
+123,easy,"Giao hàng trễ, đóng gói sơ sài. Nếu cải thiện thêm thì tốt hơn.",negative
+124,easy,"Chất lượng kém, không đáng tiền. Không biết do máy mình hay sản phẩm.",negative
+125,easy,"Sản phẩm rất tệ, nhanh hỏng. Mình sẽ cân nhắc mua lại.",negative
+126,easy,"Âm thanh nhỏ, rè và khó nghe. Nói chung ổn.",negative
+127,easy,"Chất lượng kém, không đáng tiền. Nếu cải thiện thêm thì tốt hơn.",negative
+128,easy,"Âm thanh nhỏ, rè và khó nghe.",negative
+129,easy,"Âm thanh nhỏ, rè và khó nghe. Nói chung ổn.",negative
+130,easy,"Hàng lỗi, dùng vài hôm là hỏng.",negative
+131,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nói chung ổn.",negative
+132,easy,"Âm thanh nhỏ, rè và khó nghe. Nói chung ổn.",negative
+133,easy,"Chất lượng kém, không đáng tiền. Nói chung ổn.",negative
+134,easy,"Chất lượng kém, không đáng tiền. Không biết do máy mình hay sản phẩm.",negative
+135,easy,"Âm thanh nhỏ, rè và khó nghe. Không biết do máy mình hay sản phẩm.",negative
+136,easy,"Máy chạy chậm, hay bị treo. Nếu cải thiện thêm thì tốt hơn.",negative
+137,easy,"Chất lượng kém, không đáng tiền. Không biết do máy mình hay sản phẩm.",negative
+138,easy,"Chất lượng kém, không đáng tiền. Mình sẽ cân nhắc mua lại.",negative
+139,easy,"Giao hàng trễ, đóng gói sơ sài. Nếu cải thiện thêm thì tốt hơn.",negative
+140,easy,"Chất lượng kém, không đáng tiền. Mình sẽ cân nhắc mua lại.",negative
+141,easy,"Âm thanh nhỏ, rè và khó nghe. Trải nghiệm khá ổn.",negative
+142,easy,"Máy chạy chậm, hay bị treo. Nếu cải thiện thêm thì tốt hơn.",negative
+143,easy,"Sản phẩm rất tệ, nhanh hỏng.",negative
+144,easy,"Máy chạy chậm, hay bị treo. Trải nghiệm khá ổn.",negative
+145,easy,"Máy chạy chậm, hay bị treo. Mình sẽ cân nhắc mua lại.",negative
+146,easy,"Hàng lỗi, dùng vài hôm là hỏng. Không biết do máy mình hay sản phẩm.",negative
+147,easy,"Máy chạy chậm, hay bị treo. Trải nghiệm khá ổn.",negative
+148,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nói chung ổn.",negative
+149,easy,"Máy chạy chậm, hay bị treo.",negative
+150,easy,"Chất lượng kém, không đáng tiền.",negative
+151,easy,"Chất lượng kém, không đáng tiền. Trải nghiệm khá ổn.",negative
+152,easy,"Chất lượng kém, không đáng tiền. Nói chung ổn.",negative
+153,easy,"Chất lượng kém, không đáng tiền. Trải nghiệm khá ổn.",negative
+154,easy,"Âm thanh nhỏ, rè và khó nghe. Không biết do máy mình hay sản phẩm.",negative
+155,easy,"Sản phẩm rất tệ, nhanh hỏng. Trải nghiệm khá ổn.",negative
+156,easy,"Hàng lỗi, dùng vài hôm là hỏng. Nói chung ổn.",negative
+157,easy,"Hàng lỗi, dùng vài hôm là hỏng.",negative
+158,easy,"Hàng lỗi, dùng vài hôm là hỏng.",negative
+159,easy,"Giao hàng trễ, đóng gói sơ sài. Nếu cải thiện thêm thì tốt hơn.",negative
+160,easy,"Chất lượng kém, không đáng tiền. Trải nghiệm khá ổn.",negative
+161,easy,"Dùng được, mức giá bình thường. Trải nghiệm khá ổn.",neutral
+162,easy,"Ổn, nhưng chưa thật sự nổi bật. Nói chung ổn.",neutral
+163,easy,"Tạm ổn, không có gì đặc biệt. Nếu cải thiện thêm thì tốt hơn.",neutral
+164,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Trải nghiệm khá ổn.",neutral
+165,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Nếu cải thiện thêm thì tốt hơn.",neutral
+166,easy,"Tạm ổn, không có gì đặc biệt. Nếu cải thiện thêm thì tốt hơn.",neutral
+167,easy,"Dùng được, mức giá bình thường. Mình sẽ cân nhắc mua lại.",neutral
+168,easy,"Dùng được, mức giá bình thường.",neutral
+169,easy,"Dùng được, mức giá bình thường. Không biết do máy mình hay sản phẩm.",neutral
+170,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Nếu cải thiện thêm thì tốt hơn.",neutral
+171,easy,"Dùng được, mức giá bình thường. Không biết do máy mình hay sản phẩm.",neutral
+172,easy,Sản phẩm đúng chức năng cơ bản. Trải nghiệm khá ổn.,neutral
+173,easy,"Ổn, nhưng chưa thật sự nổi bật. Nói chung ổn.",neutral
+174,easy,"Dùng được, mức giá bình thường. Không biết do máy mình hay sản phẩm.",neutral
+175,easy,Sản phẩm đúng chức năng cơ bản. Mình sẽ cân nhắc mua lại.,neutral
+176,easy,"Tạm ổn, không có gì đặc biệt.",neutral
+177,easy,"Ổn, nhưng chưa thật sự nổi bật. Nếu cải thiện thêm thì tốt hơn.",neutral
+178,easy,"Tạm ổn, không có gì đặc biệt. Không biết do máy mình hay sản phẩm.",neutral
+179,easy,"Ổn, nhưng chưa thật sự nổi bật. Mình sẽ cân nhắc mua lại.",neutral
+180,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Mình sẽ cân nhắc mua lại.",neutral
+181,easy,"Dùng được, mức giá bình thường.",neutral
+182,easy,Chất lượng ổn trong tầm giá. Mình sẽ cân nhắc mua lại.,neutral
+183,easy,Chất lượng ổn trong tầm giá. Không biết do máy mình hay sản phẩm.,neutral
+184,easy,"Dùng được, mức giá bình thường. Không biết do máy mình hay sản phẩm.",neutral
+185,easy,Chất lượng ổn trong tầm giá. Nói chung ổn.,neutral
+186,easy,Sản phẩm đúng chức năng cơ bản. Trải nghiệm khá ổn.,neutral
+187,easy,"Dùng được, mức giá bình thường.",neutral
+188,easy,"Ổn, nhưng chưa thật sự nổi bật. Nói chung ổn.",neutral
+189,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Nếu cải thiện thêm thì tốt hơn.",neutral
+190,easy,Sản phẩm đúng chức năng cơ bản. Không biết do máy mình hay sản phẩm.,neutral
+191,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Không biết do máy mình hay sản phẩm.",neutral
+192,easy,"Dùng được, mức giá bình thường. Không biết do máy mình hay sản phẩm.",neutral
+193,easy,"Dùng được, mức giá bình thường. Không biết do máy mình hay sản phẩm.",neutral
+194,easy,Sản phẩm đúng chức năng cơ bản.,neutral
+195,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Mình sẽ cân nhắc mua lại.",neutral
+196,easy,Sản phẩm đúng chức năng cơ bản.,neutral
+197,easy,"Dùng được, mức giá bình thường. Mình sẽ cân nhắc mua lại.",neutral
+198,easy,"Dùng được, mức giá bình thường. Trải nghiệm khá ổn.",neutral
+199,easy,Sản phẩm đúng chức năng cơ bản. Nếu cải thiện thêm thì tốt hơn.,neutral
+200,easy,"Tạm ổn, không có gì đặc biệt. Không biết do máy mình hay sản phẩm.",neutral
+201,easy,"Tạm ổn, không có gì đặc biệt. Nói chung ổn.",neutral
+202,easy,"Ổn, nhưng chưa thật sự nổi bật. Không biết do máy mình hay sản phẩm.",neutral
+203,easy,Sản phẩm đúng chức năng cơ bản. Không biết do máy mình hay sản phẩm.,neutral
+204,easy,"Mọi thứ bình thường, không tốt cũng không xấu.",neutral
+205,easy,Sản phẩm đúng chức năng cơ bản.,neutral
+206,easy,"Dùng được, mức giá bình thường. Mình sẽ cân nhắc mua lại.",neutral
+207,easy,Chất lượng ổn trong tầm giá.,neutral
+208,easy,"Tạm ổn, không có gì đặc biệt. Không biết do máy mình hay sản phẩm.",neutral
+209,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Không biết do máy mình hay sản phẩm.",neutral
+210,easy,"Tạm ổn, không có gì đặc biệt.",neutral
+211,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Nói chung ổn.",neutral
+212,easy,Sản phẩm đúng chức năng cơ bản. Không biết do máy mình hay sản phẩm.,neutral
+213,easy,Sản phẩm đúng chức năng cơ bản. Không biết do máy mình hay sản phẩm.,neutral
+214,easy,"Dùng được, mức giá bình thường. Nếu cải thiện thêm thì tốt hơn.",neutral
+215,easy,Chất lượng ổn trong tầm giá. Trải nghiệm khá ổn.,neutral
+216,easy,Sản phẩm đúng chức năng cơ bản. Không biết do máy mình hay sản phẩm.,neutral
+217,easy,"Mọi thứ bình thường, không tốt cũng không xấu. Không biết do máy mình hay sản phẩm.",neutral
+218,easy,"Dùng được, mức giá bình thường. Nếu cải thiện thêm thì tốt hơn.",neutral
+219,easy,Sản phẩm đúng chức năng cơ bản. Nói chung ổn.,neutral
+220,easy,Sản phẩm đúng chức năng cơ bản. Mình sẽ cân nhắc mua lại.,neutral
+221,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Mình sẽ cân nhắc mua lại.",positive
+222,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua.",positive
+223,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Trải nghiệm khá ổn.",positive
+224,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+225,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Mình sẽ cân nhắc mua lại.",positive
+226,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua.",positive
+227,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nếu cải thiện thêm thì tốt hơn.",positive
+228,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+229,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nếu cải thiện thêm thì tốt hơn.",positive
+230,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Nếu cải thiện thêm thì tốt hơn.",positive
+231,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Mình sẽ cân nhắc mua lại.",positive
+232,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Mình sẽ cân nhắc mua lại.",positive
+233,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Mình sẽ cân nhắc mua lại.",positive
+234,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt.",positive
+235,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Trải nghiệm khá ổn.",positive
+236,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nếu cải thiện thêm thì tốt hơn.",positive
+237,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Mình sẽ cân nhắc mua lại.",positive
+238,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Trải nghiệm khá ổn.",positive
+239,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Trải nghiệm khá ổn.",positive
+240,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Trải nghiệm khá ổn.",positive
+241,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nói chung ổn.",positive
+242,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+243,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Nói chung ổn.",positive
+244,medium,Giá hơi cao nhưng chất lượng rất tốt. Nói chung ổn.,positive
+245,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Trải nghiệm khá ổn.",positive
+246,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Nếu cải thiện thêm thì tốt hơn.",positive
+247,medium,Giá hơi cao nhưng chất lượng rất tốt. Trải nghiệm khá ổn.,positive
+248,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Không biết do máy mình hay sản phẩm.",positive
+249,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Nói chung ổn.",positive
+250,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích.",positive
+251,medium,Giá hơi cao nhưng chất lượng rất tốt. Mình sẽ cân nhắc mua lại.,positive
+252,medium,Giá hơi cao nhưng chất lượng rất tốt.,positive
+253,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Nói chung ổn.",positive
+254,medium,Giá hơi cao nhưng chất lượng rất tốt. Mình sẽ cân nhắc mua lại.,positive
+255,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Mình sẽ cân nhắc mua lại.",positive
+256,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Nếu cải thiện thêm thì tốt hơn.",positive
+257,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Trải nghiệm khá ổn.",positive
+258,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Không biết do máy mình hay sản phẩm.",positive
+259,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Không biết do máy mình hay sản phẩm.",positive
+260,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua. Nếu cải thiện thêm thì tốt hơn.",positive
+261,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+262,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+263,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Mình sẽ cân nhắc mua lại.",positive
+264,medium,"Thiết kế đẹp và pin ổn, nhìn chung đáng mua.",positive
+265,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+266,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt.",positive
+267,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+268,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Mình sẽ cân nhắc mua lại.",positive
+269,medium,Giá hơi cao nhưng chất lượng rất tốt. Nói chung ổn.,positive
+270,medium,Giá hơi cao nhưng chất lượng rất tốt. Trải nghiệm khá ổn.,positive
+271,medium,Giá hơi cao nhưng chất lượng rất tốt. Nói chung ổn.,positive
+272,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Trải nghiệm khá ổn.",positive
+273,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Không biết do máy mình hay sản phẩm.",positive
+274,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng.",positive
+275,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Nếu cải thiện thêm thì tốt hơn.",positive
+276,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng.",positive
+277,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nói chung ổn.",positive
+278,medium,Giá hơi cao nhưng chất lượng rất tốt. Mình sẽ cân nhắc mua lại.,positive
+279,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nói chung ổn.",positive
+280,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Nói chung ổn.",positive
+281,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Mình sẽ cân nhắc mua lại.",positive
+282,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn. Trải nghiệm khá ổn.",positive
+283,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Nếu cải thiện thêm thì tốt hơn.",positive
+284,medium,"Ban đầu hơi lo, nhưng dùng rồi thấy khá hài lòng. Nói chung ổn.",positive
+285,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+286,medium,"Không rẻ, tuy nhiên trải nghiệm rất ổn.",positive
+287,medium,Giá hơi cao nhưng chất lượng rất tốt.,positive
+288,medium,"Không phải hoàn hảo, nhưng chất lượng vẫn tốt. Không biết do máy mình hay sản phẩm.",positive
+289,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Mình sẽ cân nhắc mua lại.",positive
+290,medium,"Dùng lâu mới thấy rõ, nhưng càng dùng càng thích. Trải nghiệm khá ổn.",positive
+291,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Trải nghiệm khá ổn.",negative
+292,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng. Nếu cải thiện thêm thì tốt hơn.,negative
+293,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Trải nghiệm khá ổn.",negative
+294,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Trải nghiệm khá ổn.",negative
+295,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Trải nghiệm khá ổn.",negative
+296,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Nói chung ổn.",negative
+297,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Mình sẽ cân nhắc mua lại.",negative
+298,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Nói chung ổn.",negative
+299,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Nếu cải thiện thêm thì tốt hơn.",negative
+300,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Nếu cải thiện thêm thì tốt hơn.",negative
+301,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Trải nghiệm khá ổn.",negative
+302,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ.",negative
+303,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn.",negative
+304,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng. Nếu cải thiện thêm thì tốt hơn.,negative
+305,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Nói chung ổn.",negative
+306,medium,Giá cao mà chất lượng không tương xứng. Mình sẽ cân nhắc mua lại.,negative
+307,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng.,negative
+308,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Trải nghiệm khá ổn.",negative
+309,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Nếu cải thiện thêm thì tốt hơn.",negative
+310,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Không biết do máy mình hay sản phẩm.",negative
+311,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Nếu cải thiện thêm thì tốt hơn.",negative
+312,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ.",negative
+313,medium,Giá cao mà chất lượng không tương xứng. Mình sẽ cân nhắc mua lại.,negative
+314,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Nói chung ổn.",negative
+315,medium,Giá cao mà chất lượng không tương xứng.,negative
+316,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Nói chung ổn.",negative
+317,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Không biết do máy mình hay sản phẩm.",negative
+318,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Mình sẽ cân nhắc mua lại.",negative
+319,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng. Nói chung ổn.,negative
+320,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Nói chung ổn.",negative
+321,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn.",negative
+322,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Trải nghiệm khá ổn.",negative
+323,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng. Trải nghiệm khá ổn.,negative
+324,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Không biết do máy mình hay sản phẩm.",negative
+325,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Mình sẽ cân nhắc mua lại.",negative
+326,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Không biết do máy mình hay sản phẩm.",negative
+327,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng.,negative
+328,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ.",negative
+329,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Trải nghiệm khá ổn.",negative
+330,medium,"Hỗ trợ chậm, trả lời không rõ ràng.",negative
+331,medium,Giá cao mà chất lượng không tương xứng.,negative
+332,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Nói chung ổn.",negative
+333,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Mình sẽ cân nhắc mua lại.",negative
+334,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng. Không biết do máy mình hay sản phẩm.,negative
+335,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Mình sẽ cân nhắc mua lại.",negative
+336,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Nếu cải thiện thêm thì tốt hơn.",negative
+337,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Trải nghiệm khá ổn.",negative
+338,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Nếu cải thiện thêm thì tốt hơn.",negative
+339,medium,Giá cao mà chất lượng không tương xứng. Mình sẽ cân nhắc mua lại.,negative
+340,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ. Nếu cải thiện thêm thì tốt hơn.",negative
+341,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Nếu cải thiện thêm thì tốt hơn.",negative
+342,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn.",negative
+343,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Không biết do máy mình hay sản phẩm.",negative
+344,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Trải nghiệm khá ổn.",negative
+345,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Nếu cải thiện thêm thì tốt hơn.",negative
+346,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Mình sẽ cân nhắc mua lại.",negative
+347,medium,"Hỗ trợ chậm, trả lời không rõ ràng. Không biết do máy mình hay sản phẩm.",negative
+348,medium,"Hỗ trợ chậm, trả lời không rõ ràng.",negative
+349,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Không biết do máy mình hay sản phẩm.",negative
+350,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Nếu cải thiện thêm thì tốt hơn.",negative
+351,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Nếu cải thiện thêm thì tốt hơn.",negative
+352,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn.",negative
+353,medium,Quảng cáo hay nhưng dùng thực tế rất thất vọng.,negative
+354,medium,"Không phải lần đầu mua, lần này chất lượng kém hơn. Nếu cải thiện thêm thì tốt hơn.",negative
+355,medium,"Ban đầu tưởng ổn, nhưng càng dùng càng tệ.",negative
+356,medium,Giá cao mà chất lượng không tương xứng. Trải nghiệm khá ổn.,negative
+357,medium,"Hỗ trợ chậm, trả lời không rõ ràng.",negative
+358,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi.",negative
+359,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Không biết do máy mình hay sản phẩm.",negative
+360,medium,"Đẹp bên ngoài nhưng hiệu năng yếu, hay lỗi. Mình sẽ cân nhắc mua lại.",negative
+361,medium,"Giá hợp lý, hiệu năng vừa đủ. Nói chung ổn.",neutral
+362,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Trải nghiệm khá ổn.",neutral
+363,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nếu cải thiện thêm thì tốt hơn.",neutral
+364,medium,"Dùng được, nhưng không có gì xuất sắc. Không biết do máy mình hay sản phẩm.",neutral
+365,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nếu cải thiện thêm thì tốt hơn.",neutral
+366,medium,"Dùng được, nhưng không có gì xuất sắc.",neutral
+367,medium,"Ổn, nếu bạn không đòi hỏi cao. Nếu cải thiện thêm thì tốt hơn.",neutral
+368,medium,"Giá hợp lý, hiệu năng vừa đủ. Nói chung ổn.",neutral
+369,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nói chung ổn.",neutral
+370,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Nếu cải thiện thêm thì tốt hơn.,neutral
+371,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Mình sẽ cân nhắc mua lại.,neutral
+372,medium,"Ổn, nếu bạn không đòi hỏi cao. Nếu cải thiện thêm thì tốt hơn.",neutral
+373,medium,"Giá hợp lý, hiệu năng vừa đủ. Trải nghiệm khá ổn.",neutral
+374,medium,"Giá hợp lý, hiệu năng vừa đủ.",neutral
+375,medium,"Giá hợp lý, hiệu năng vừa đủ. Nếu cải thiện thêm thì tốt hơn.",neutral
+376,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ.",neutral
+377,medium,"Dùng được, nhưng không có gì xuất sắc. Nếu cải thiện thêm thì tốt hơn.",neutral
+378,medium,"Ổn, nếu bạn không đòi hỏi cao. Mình sẽ cân nhắc mua lại.",neutral
+379,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Không biết do máy mình hay sản phẩm.",neutral
+380,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Nói chung ổn.,neutral
+381,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ. Nếu cải thiện thêm thì tốt hơn.",neutral
+382,medium,"Ổn, nếu bạn không đòi hỏi cao. Nếu cải thiện thêm thì tốt hơn.",neutral
+383,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ. Không biết do máy mình hay sản phẩm.",neutral
+384,medium,"Dùng được, nhưng không có gì xuất sắc. Mình sẽ cân nhắc mua lại.",neutral
+385,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Trải nghiệm khá ổn.",neutral
+386,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Trải nghiệm khá ổn.",neutral
+387,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ. Nếu cải thiện thêm thì tốt hơn.",neutral
+388,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nếu cải thiện thêm thì tốt hơn.",neutral
+389,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Nếu cải thiện thêm thì tốt hơn.,neutral
+390,medium,"Giá hợp lý, hiệu năng vừa đủ. Nói chung ổn.",neutral
+391,medium,"Ổn, nếu bạn không đòi hỏi cao. Không biết do máy mình hay sản phẩm.",neutral
+392,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ. Trải nghiệm khá ổn.",neutral
+393,medium,"Giá hợp lý, hiệu năng vừa đủ. Trải nghiệm khá ổn.",neutral
+394,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Không biết do máy mình hay sản phẩm.",neutral
+395,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Nói chung ổn.,neutral
+396,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Trải nghiệm khá ổn.",neutral
+397,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nói chung ổn.",neutral
+398,medium,"Giá hợp lý, hiệu năng vừa đủ.",neutral
+399,medium,"Dùng được, nhưng không có gì xuất sắc. Trải nghiệm khá ổn.",neutral
+400,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ. Trải nghiệm khá ổn.",neutral
+401,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Mình sẽ cân nhắc mua lại.,neutral
+402,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Không biết do máy mình hay sản phẩm.",neutral
+403,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Mình sẽ cân nhắc mua lại.",neutral
+404,medium,"Ổn, nếu bạn không đòi hỏi cao. Không biết do máy mình hay sản phẩm.",neutral
+405,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ. Nói chung ổn.",neutral
+406,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Không biết do máy mình hay sản phẩm.,neutral
+407,medium,"Ổn, nếu bạn không đòi hỏi cao. Không biết do máy mình hay sản phẩm.",neutral
+408,medium,"Chất lượng ổn, nhưng giao hàng hơi trễ.",neutral
+409,medium,"Ổn, nếu bạn không đòi hỏi cao. Nói chung ổn.",neutral
+410,medium,Tốt ở vài điểm nhưng cũng có nhược điểm. Trải nghiệm khá ổn.,neutral
+411,medium,"Giá hợp lý, hiệu năng vừa đủ. Trải nghiệm khá ổn.",neutral
+412,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Mình sẽ cân nhắc mua lại.",neutral
+413,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Trải nghiệm khá ổn.",neutral
+414,medium,"Ổn, nếu bạn không đòi hỏi cao. Trải nghiệm khá ổn.",neutral
+415,medium,"Giá hợp lý, hiệu năng vừa đủ. Nói chung ổn.",neutral
+416,medium,"Ổn, nếu bạn không đòi hỏi cao. Mình sẽ cân nhắc mua lại.",neutral
+417,medium,"Giá hợp lý, hiệu năng vừa đủ. Nói chung ổn.",neutral
+418,medium,"Giá hợp lý, hiệu năng vừa đủ. Nói chung ổn.",neutral
+419,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nói chung ổn.",neutral
+420,medium,"Không tệ như mình nghĩ, dùng cũng ổn. Nói chung ổn.",neutral
+421,hard,"Không phải không ổn, nói chung là dùng rất ok. Trải nghiệm khá ổn.",positive
+422,hard,"Không hề tệ, thậm chí rất đáng khen. Mình sẽ cân nhắc mua lại.",positive
+423,hard,"Không hề tệ, thậm chí rất đáng khen. Nếu cải thiện thêm thì tốt hơn.",positive
+424,hard,"Không phải không ổn, nói chung là dùng rất ok. Nói chung ổn.",positive
+425,hard,"Không phải không ổn, nói chung là dùng rất ok.",positive
+426,hard,Tưởng bị lỗi mà hóa ra dùng đúng cách thì rất ổn. Trải nghiệm khá ổn.,positive
+427,hard,"Nghe review chê nhiều, nhưng mình dùng thấy tốt.",positive
+428,hard,"Không phải không ổn, nói chung là dùng rất ok. Trải nghiệm khá ổn.",positive
+429,hard,"Không phải không ổn, nói chung là dùng rất ok.",positive
+430,hard,"Không phải không ổn, nói chung là dùng rất ok.",positive
+431,hard,"Không hề tệ, thậm chí rất đáng khen. Nếu cải thiện thêm thì tốt hơn.",positive
+432,hard,"Không phải không ổn, nói chung là dùng rất ok. Nếu cải thiện thêm thì tốt hơn.",positive
+433,hard,"Mình tưởng sẽ thất vọng, ai ngờ lại khá tốt. Mình sẽ cân nhắc mua lại.",positive
+434,hard,"Không phải không ổn, nói chung là dùng rất ok. Trải nghiệm khá ổn.",positive
+435,hard,"Nghe review chê nhiều, nhưng mình dùng thấy tốt. Nói chung ổn.",positive
+436,hard,"Mình tưởng sẽ thất vọng, ai ngờ lại khá tốt. Nói chung ổn.",positive
+437,hard,Tưởng bị lỗi mà hóa ra dùng đúng cách thì rất ổn.,positive
+438,hard,Tưởng bị lỗi mà hóa ra dùng đúng cách thì rất ổn. Không biết do máy mình hay sản phẩm.,positive
+439,hard,"Nghe review chê nhiều, nhưng mình dùng thấy tốt. Mình sẽ cân nhắc mua lại.",positive
+440,hard,"Không hề tệ, thậm chí rất đáng khen.",positive
+441,hard,Tưởng bị lỗi mà hóa ra dùng đúng cách thì rất ổn. Trải nghiệm khá ổn.,positive
+442,hard,"Nghe review chê nhiều, nhưng mình dùng thấy tốt. Mình sẽ cân nhắc mua lại.",positive
+443,hard,"Không phải không ổn, nói chung là dùng rất ok. Trải nghiệm khá ổn.",positive
+444,hard,"Không hề tệ, thậm chí rất đáng khen. Không biết do máy mình hay sản phẩm.",positive
+445,hard,"Mình tưởng sẽ thất vọng, ai ngờ lại khá tốt. Mình sẽ cân nhắc mua lại.",positive
+446,hard,Tưởng bị lỗi mà hóa ra dùng đúng cách thì rất ổn. Trải nghiệm khá ổn.,positive
+447,hard,"Không phải không ổn, nói chung là dùng rất ok. Nói chung ổn.",positive
+448,hard,"Không phải không ổn, nói chung là dùng rất ok. Nói chung ổn.",positive
+449,hard,"Không phải không ổn, nói chung là dùng rất ok. Trải nghiệm khá ổn.",positive
+450,hard,"Mình tưởng sẽ thất vọng, ai ngờ lại khá tốt. Nói chung ổn.",positive
+451,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Không biết do máy mình hay sản phẩm.,negative
+452,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa).,negative
+453,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai. Nếu cải thiện thêm thì tốt hơn.",negative
+454,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai.",negative
+455,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai. Không biết do máy mình hay sản phẩm.",negative
+456,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Không biết do máy mình hay sản phẩm.,negative
+457,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai. Trải nghiệm khá ổn.",negative
+458,hard,"Nghe thì hay, nhưng thực tế chẳng ra gì. Trải nghiệm khá ổn.",negative
+459,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Mình sẽ cân nhắc mua lại.,negative
+460,hard,"Tưởng ngon, ai ngờ dở tệ. Mình sẽ cân nhắc mua lại.",negative
+461,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai.",negative
+462,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai. Nói chung ổn.",negative
+463,hard,"Tưởng ngon, ai ngờ dở tệ.",negative
+464,hard,"Nghe thì hay, nhưng thực tế chẳng ra gì. Mình sẽ cân nhắc mua lại.",negative
+465,hard,"Nghe thì hay, nhưng thực tế chẳng ra gì. Nói chung ổn.",negative
+466,hard,"Tưởng ngon, ai ngờ dở tệ. Mình sẽ cân nhắc mua lại.",negative
+467,hard,"Không phải là không tệ, nhưng thật sự quá chán. Nếu cải thiện thêm thì tốt hơn.",negative
+468,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Trải nghiệm khá ổn.,negative
+469,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Nếu cải thiện thêm thì tốt hơn.,negative
+470,hard,"Tưởng ngon, ai ngờ dở tệ. Mình sẽ cân nhắc mua lại.",negative
+471,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Nói chung ổn.,negative
+472,hard,"Nghe thì hay, nhưng thực tế chẳng ra gì.",negative
+473,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Nói chung ổn.,negative
+474,hard,"Tưởng ngon, ai ngờ dở tệ. Nói chung ổn.",negative
+475,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai. Nếu cải thiện thêm thì tốt hơn.",negative
+476,hard,"Tưởng ngon, ai ngờ dở tệ. Không biết do máy mình hay sản phẩm.",negative
+477,hard,"Mới dùng đã lỗi, đúng là 'tuyệt vời' theo cách mỉa mai.",negative
+478,hard,"Nghe thì hay, nhưng thực tế chẳng ra gì. Mình sẽ cân nhắc mua lại.",negative
+479,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Trải nghiệm khá ổn.,negative
+480,hard,Chưa bao giờ thấy món nào 'đáng tiền' như thế này (ý mỉa). Trải nghiệm khá ổn.,negative
+481,hard,"Có lúc ổn có lúc không, khó kết luận.",neutral
+482,hard,"Tùy nhu cầu, mình thấy bình thường.",neutral
+483,hard,Chưa đủ thời gian dùng để đánh giá. Nếu cải thiện thêm thì tốt hơn.,neutral
+484,hard,Chưa đủ thời gian dùng để đánh giá. Không biết do máy mình hay sản phẩm.,neutral
+485,hard,Chưa đủ thời gian dùng để đánh giá.,neutral
+486,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Trải nghiệm khá ổn.",neutral
+487,hard,Ổn cho người dễ tính. Trải nghiệm khá ổn.,neutral
+488,hard,Chưa đủ thời gian dùng để đánh giá. Mình sẽ cân nhắc mua lại.,neutral
+489,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Mình sẽ cân nhắc mua lại.",neutral
+490,hard,"Tùy nhu cầu, mình thấy bình thường. Mình sẽ cân nhắc mua lại.",neutral
+491,hard,Ổn cho người dễ tính. Nếu cải thiện thêm thì tốt hơn.,neutral
+492,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Nếu cải thiện thêm thì tốt hơn.",neutral
+493,hard,Chưa đủ thời gian dùng để đánh giá.,neutral
+494,hard,Ổn cho người dễ tính.,neutral
+495,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Mình sẽ cân nhắc mua lại.",neutral
+496,hard,"Tùy nhu cầu, mình thấy bình thường. Không biết do máy mình hay sản phẩm.",neutral
+497,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Nếu cải thiện thêm thì tốt hơn.",neutral
+498,hard,"Có lúc ổn có lúc không, khó kết luận. Mình sẽ cân nhắc mua lại.",neutral
+499,hard,"Có lúc ổn có lúc không, khó kết luận. Không biết do máy mình hay sản phẩm.",neutral
+500,hard,Chưa đủ thời gian dùng để đánh giá. Nếu cải thiện thêm thì tốt hơn.,neutral
+501,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ.",neutral
+502,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Nói chung ổn.",neutral
+503,hard,Ổn cho người dễ tính. Không biết do máy mình hay sản phẩm.,neutral
+504,hard,"Tùy nhu cầu, mình thấy bình thường. Trải nghiệm khá ổn.",neutral
+505,hard,"Có lúc ổn có lúc không, khó kết luận. Mình sẽ cân nhắc mua lại.",neutral
+506,hard,Ổn cho người dễ tính.,neutral
+507,hard,"Cũng được, nhưng nói chung không khác mấy so với hàng cũ. Không biết do máy mình hay sản phẩm.",neutral
+508,hard,"Có lúc ổn có lúc không, khó kết luận. Trải nghiệm khá ổn.",neutral
+509,hard,"Có lúc ổn có lúc không, khó kết luận. Nói chung ổn.",neutral
+510,hard,"Tùy nhu cầu, mình thấy bình thường. Trải nghiệm khá ổn.",neutral
